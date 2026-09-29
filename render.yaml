@@ -1,6 +1,0 @@
-services:
-  - type: web
-    runtime: node
-    name: splatter-league
-    buildCommand: npm install
-    startCommand: npm start
