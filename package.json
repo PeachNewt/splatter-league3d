@@ -1,0 +1,8 @@
+{
+  "name": "splatter-league",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A browser based 3D paintball game with LAN multiplayer",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" }
+}
